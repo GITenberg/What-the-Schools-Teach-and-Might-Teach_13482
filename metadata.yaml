@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5071'
     url: http://www.gutenberg.org/2009/agents/5071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13482#What-the-Schools-Teach-and-Might-Teach
 gutenberg_bookshelf: Education
 gutenberg_issued: '2004-09-16'
 gutenberg_type: Text
