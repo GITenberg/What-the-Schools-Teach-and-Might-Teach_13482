@@ -1,0 +1,28 @@
+_repo: What-the-Schools-Teach-and-Might-Teach_13482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bobbitt, John Franklin
+    birthdate: 1876
+    gutenberg_agent_id: '5071'
+    url: http://www.gutenberg.org/2009/agents/5071
+description: ''
+gutenberg_bookshelf: Education
+gutenberg_issued: '2004-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Public schools -- Ohio -- Cleveland'
+- !lcc 'LA'
+- !lcsh 'Education -- Ohio -- Curricula'
+- !lcsh 'Education -- Ohio -- Cleveland'
+title: What the Schools Teach and Might Teach
+url: http://www.gutenberg.org/ebooks/13482
